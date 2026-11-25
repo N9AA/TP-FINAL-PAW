@@ -88,7 +88,7 @@ Crear una base de datos en MySQL o MariaDB. Luego, configurar los siguientes val
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=meraki
+DB_DATABASE=ecommerce
 DB_USERNAME=root
 DB_PASSWORD=
 ```
